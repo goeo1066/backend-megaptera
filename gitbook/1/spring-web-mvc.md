@@ -44,6 +44,7 @@ Hexagonal Architecture\[[Link](https://en.wikipedia.org/wiki/Hexagonal\_architec
 * Nested Layers ("Hexa" is not the matter)
 * Get Your Hands Dirty on Clean Architecture\[[Link](https://github.com/thombergs/buckpal/blob/master/src/main/java/io/reflectoring/buckpal/adapter/in/web/SendMoneyController.java)]
   * Clean Architecture 실습
+* First-class citizen\[[Link](https://en.wikipedia.org/wiki/First-class\_citizen)]
 
 ## Spring&#x20;
 
