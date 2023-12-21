@@ -54,6 +54,19 @@ PostController안에서 Comment 컨트롤을 하지말자
 
 ### 참고
 
+```java
+// Some code
+@RequestMapping
+    @GetMapping
+    @PostMapping
+    @PatchMapping
+    @DeleteMapping
+    @PathVariable
+@RequestBody
+@ExceptionHandler
+@ResponseStatus
+```
+
 #### 서적
 
 * [RESTful Web API](http://aladin.kr/p/zGUKk)

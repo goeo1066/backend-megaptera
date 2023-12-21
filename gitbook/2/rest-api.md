@@ -123,3 +123,44 @@
 REST는 API를 위한 아키텍처 스타일이 아니다. 논문에서 밝힌 것처럼 “common case of the Web”에 특화된 방법이다. 하지만 API를 만들 때 유용하게 활용할 수 있다.
 
 로이 필딩은 필딩 제약 조건을 지키지 않는 API를 REST API라고 부르는 것에 반대하겠지만, 업계에서 그냥 리처드슨 성숙도 모델의 레벨 2만 만족해도 REST API라고 부르고 있기 때문에 여기서도 그냥 REST API라고 이야기할 예정.
+
+### Self-Descriptive Message
+
+* HTML문서의 경우 각 태그와 어트리뷰트가 정해진 의미를 가지고 있다.
+* JSON은 그런게 없어 MIME으로 지정해도 application/json이 아니라 application/dns+json같은 타입을 써야한다. (자기 설명이 가능하게)
+
+### HATEOAS
+
+* `application/hal+json`
+* `application/hal+xml`
+
+```json
+{
+  "data": { // HAL JSON의 리소스 필드
+    "id": 1000,
+    "name": "게시글 1",
+    "content": "HAL JSON을 이용한 예시 JSON"
+  },
+  "_links": { // HAL JSON의 링크 필드
+    "self": {
+      "href": "http://localhost:8080/api/article/1000" // 현재 api 주소
+    },
+    "profile": {
+      "href": "http://localhost:8080/docs#query-article" // 해당 api의 문서
+    },
+    "next": {
+      "href": "http://localhost:8080/api/article/1001" // article 의 다음 api 주소
+    },
+    "prev": {
+      "href": "http://localhost:8080/api/article/999" // article의 이전 api 주소
+    }
+  }
+}
+```
+
+### REST API Maturity Model (Richardson Maturity Model)
+
+<figure><img src="https://martinfowler.com/articles/images/richardsonMaturityModel/overview.png" alt=""><figcaption><p>Glory of REST</p></figcaption></figure>
+
+* HTTP Method만 지켜도 Level 2를 달성한다.
+* 리소스 개념만 있어도 Level 1을 달성한다.

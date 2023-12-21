@@ -27,3 +27,7 @@
   * 이렇게 쓰지마라 (프론트에서는 쓸수 있겠지만)
 * 그룹이 아닌 경우라면 단수사용 가능
   * /session 세션은 하나만 유지된다. /sessions/1 같은 접속이 있으면 안된다
+
+## 참고
+
+Web API 디자인의 모범사례\[[Link](https://learn.microsoft.com/ko-kr/azure/architecture/best-practices/api-design#organize-the-api-design-around-resources)]
