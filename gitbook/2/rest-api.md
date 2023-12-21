@@ -158,7 +158,7 @@ REST는 API를 위한 아키텍처 스타일이 아니다. 논문에서 밝힌 �
 }
 ```
 
-### REST API Maturity Model (Richardson Maturity Model)
+### REST API Maturity Model ([Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html))
 
 <figure><img src="https://martinfowler.com/articles/images/richardsonMaturityModel/overview.png" alt=""><figcaption><p>Glory of REST</p></figcaption></figure>
 
