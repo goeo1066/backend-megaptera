@@ -16,6 +16,7 @@
   * [REST API](gitbook/2/rest-api.md)
   * [URI/MIME](gitbook/2/uri-mime.md)
   * [Collection Pattern](gitbook/2/collection-pattern.md)
+  * [Spring Web MVC](gitbook/2/spring-web-mvc.md)
 
 ## 효과적인 학습법
 
