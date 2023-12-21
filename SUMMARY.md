@@ -12,6 +12,10 @@
   * [HTTP Server](gitbook/1/http-server.md)
   * [고수준 HTTP Server API](gitbook/1/http-server-api.md)
   * [Spring Web MVC](gitbook/1/spring-web-mvc.md)
+* [2주차](gitbook/2/README.md)
+  * [REST API](gitbook/2/rest-api.md)
+  * [URI/MIME](gitbook/2/uri-mime.md)
+  * [Collection Pattern](gitbook/2/collection-pattern.md)
 
 ## 효과적인 학습법
 
