@@ -36,6 +36,10 @@ public class PostController {
 }
 ```
 
+> Post Response Status Code = 201 (Created)
+
+### 에러 핸들링
+
 ```java
 // Some code
 @ExceptionHandler(Exception.class)
@@ -44,6 +48,9 @@ public class PostController {
 Bulk 수정/삭제 등은 별도 패턴이 없으니 알아서 만들고 문서를 정확하게 만듬
 
 * query를 쓴다던지
+* 컨트롤러를 너무 크지 않게 유지하자
+
+PostController안에서 Comment 컨트롤을 하지말자
 
 ### 참고
 
