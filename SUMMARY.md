@@ -20,6 +20,7 @@
 * [3주차](gitbook/3/README.md)
   * [DTO](gitbook/3/dto.md)
   * [Serialization](gitbook/3/serialization.md)
+  * [Page](gitbook/3/page.md)
 
 ## 효과적인 학습법
 

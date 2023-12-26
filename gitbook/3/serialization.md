@@ -46,3 +46,63 @@ description: 직렬화
 
 * JSON.parse(), JSON.stringify()
   * 코드가 바로 실행이 될수 있기때문에 parse()를 이용해 안전하게 처리한다.
+
+### JSON 스키마로서의 DTO (class)
+
+* DTO를 쓰는 다양한 상황을 상상해보자.
+* DTO라고 명명하지 않아도 DTO일수 있다.
+
+### Jackson ObjectMapper
+
+#### JSON 스키마
+
+```json
+{
+	"id": "1234",
+	"title": "제목",
+	"content": "테스트"
+}
+```
+
+#### Java 코드
+
+```java
+public class PostDto {
+	private String id;
+
+	private String title;
+
+	private String content;
+
+	public PostDto() {
+	}
+
+	public PostDto(String id, String title, String content) {
+		this.id = id;
+		this.title = title;
+		this.content = content;
+	}
+	
+	public String getId() {
+		return id;
+	}
+
+	public String getTitle() {
+		return title;
+	}
+
+	public String getContent() {
+		return content;
+	}
+}
+```
+
+Spring DI를 통해 Jackson ObjectMapper를 주입받을수 있다.
+
+포맷 문제로 JsonProcessingException예외가 발생할 수 있다.
+
+Spring Boot Starter Web에 Jackson이 포함됨(JSON 자동 변환)
+
+CRUD모두 DTO를 활용할수 있다.
+
+* POST(Create)의 경우 ID는 필요하지 않으므로, ID가 없는 DTO를 따로 만들어도 된다. (알아서)
