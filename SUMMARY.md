@@ -19,7 +19,7 @@
   * [Spring Web MVC](gitbook/2/spring-web-mvc.md)
 * [3주차](gitbook/3/README.md)
   * [DTO](gitbook/3/dto.md)
-  * [Page](gitbook/3/page.md)
+  * [Serialization](gitbook/3/serialization.md)
 
 ## 효과적인 학습법
 
