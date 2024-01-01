@@ -39,7 +39,7 @@ description: Cross-Origin Resource Sharing
 
 이제는 그냥 CORS를 활용하자
 
-## Access-Controll-Allow-Origin
+## Access-Control-Allow-Origin
 
 Back-end에서 안전한 접근이라고 알려주는 방식
 
