@@ -8,9 +8,13 @@
 return new ArrayList(list);
 ```
 
+```java
+return new ArrayList(list);
+```
+
 ### DAO
 
-Find, Save, Delete
+FindAll, Find, Save, Delete
 
 여러 데이터를 관리하는 방법은 하나가 아니다.
 

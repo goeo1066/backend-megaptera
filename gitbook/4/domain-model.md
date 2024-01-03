@@ -7,3 +7,5 @@ public class Post {
   }
 }
 ```
+
+* ID나 MultilineText등 단순 문자열(혹은 다른 데이터 타입)이 아니라 온전한 역할을 하는 하나의 객체로 본다.

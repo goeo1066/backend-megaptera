@@ -6,7 +6,7 @@ description: 관심사의 분리, 응집도, 결합도, Layered Architecture, UU
 
 ### Layered Architecture (Style)
 
-Seperation of Concerns
+#### Seperation of Concerns
 
 * 커다란 프로그램은 유지보수가 어렵다.
 * 인간의 한계 + 공간의 한계
