@@ -21,6 +21,11 @@
   * [DTO](gitbook/3/dto.md)
   * [Serialization](gitbook/3/serialization.md)
   * [CORS](gitbook/3/cors.md)
+* [4주차](gitbook/4/README.md)
+  * [Layered Architecture](gitbook/4/layered-architecture.md)
+  * [Refactoring](gitbook/4/refactoring.md)
+  * [Data Access](gitbook/4/data-access.md)
+  * [Application & Domain Layer](gitbook/4/application-and-domain-layer.md)
 
 ## 효과적인 학습법
 
