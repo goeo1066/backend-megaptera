@@ -26,6 +26,7 @@
   * [Refactoring](gitbook/4/refactoring.md)
   * [Data Access](gitbook/4/data-access.md)
   * [Application & Domain Layer](gitbook/4/application-and-domain-layer.md)
+  * [Domain Model](gitbook/4/domain-model.md)
 
 ## 효과적인 학습법
 
