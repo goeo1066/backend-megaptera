@@ -4,7 +4,7 @@ description: 관심사의 분리, 응집도, 결합도, Layered Architecture, UU
 
 # Layered Architecture
 
-Layered Architecture (Style)
+### Layered Architecture (Style)
 
 Seperation of Concerns
 
@@ -15,12 +15,12 @@ Seperation of Concerns
   * 그룹화가 필요
 * 특정 관심사에 몰입, 관심사가 아닌 것은 칼같이 나눔
 
-Layered Archtecture
+### Layered Archtecture
 
 * 다층구조
 * 웹과 기능은 분리 될수 있다.
 
-UUID
+### UUID
 
 ULID // 시간순 정렬 가능한 ID
 
