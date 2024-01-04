@@ -1,8 +1,8 @@
 # Application & Domain Layer
 
-Application Layer
+## Application Layer(aka. Interface Layer)
 
-* 이 계층을 얇게 유지된다. 거의 있는게 없어야 된다.
+* 이 계층은 얇게 유지된다. 거의 있는게 없어야 된다.
 * 업무 규칙이나 지식이 포함되지 않으며
 * 오직 작업을 조정함도메인 객체의 협력자에게 작업을 위임한다.
 * Domain Model은 일반적인 객체로, 행위가 중요하다.

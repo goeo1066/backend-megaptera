@@ -1,8 +1,8 @@
 # Refactoring
 
-Method Extraction
+> 참고: [Extract Method](https://refactoring.com/catalog/extractFunction.html), [Extract Class](https://refactoring.com/catalog/extractClass.html)
 
-Class Extraction
+관심사를 나누고, 관심사에 따라서 코드도 나눔
 
 코드를 어떻게 배치하느냐 => 설계
 
