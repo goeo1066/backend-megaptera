@@ -6,7 +6,7 @@ description: 관심사의 분리, 응집도, 결합도, Layered Architecture, UU
 
 ### Layered Architecture (Style)
 
-#### Seperation of Concerns
+#### Separation of Concerns
 
 * 커다란 프로그램은 유지보수가 어렵다.
   * 10권의 책은 관리하기 쉬움, 1만권의 책은 관리하기 어렵다
@@ -14,6 +14,7 @@ description: 관심사의 분리, 응집도, 결합도, Layered Architecture, UU
 * 폴더나 자바 패키지 등이 관심사를 나눈 예
 * 그룹화가 필요
 * 특정 관심사에 몰입, 관심사가 아닌 것은 칼같이 나눔
+* 큰 규모의 프로젝트 일 수록 구조가 낮은 결합도와 높은 응집도를 가지도록 한다
 
 > 참고: [응집도](https://en.wikipedia.org/wiki/Cohesion\_\(computer\_science\)), [결합도](https://en.wikipedia.org/wiki/Coupling\_\(computer\_programming\))
 
