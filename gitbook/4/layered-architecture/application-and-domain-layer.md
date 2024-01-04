@@ -28,8 +28,5 @@ account.increaseAmount(10_000);
 | DB 중심 | 도메인 모델 중심  |
 
 * JPA Entity랑 DDD Entity는 다르다.
-
-> DAO <--> Repository <--> Service <--> Controller <--> UI
-
 * Getter는 절대로 비즈니스 로직을 위해 쓰지 말것
 * getAmount -> 뭔가 잘못 되고 있다는 조짐

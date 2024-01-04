@@ -9,3 +9,21 @@ public class Post {
 ```
 
 * ID나 MultilineText등 단순 문자열(혹은 다른 데이터 타입)이 아니라 온전한 역할을 하는 하나의 객체로 본다.
+
+```java
+public class PostId {
+  private String id;
+  
+  public PostId(String id) {
+    ...
+  }
+  
+  public static PostId create() {
+    return ...
+  }
+  
+  public static PostId of(String id) {
+    return ...
+  }
+}
+```

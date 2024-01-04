@@ -28,6 +28,8 @@ description: 관심사의 분리, 응집도, 결합도, Layered Architecture, UU
   * Presentation Layer <--> Domain Layer <--> Data Access Layer
 
 > 참고: [다층 구조](https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%B8%B5\_%EA%B5%AC%EC%A1%B0), [Layered Architecture](https://github.com/ahastudio/til/blob/main/architecture/layered-architecture.md)
+>
+> Repository <-(Demain Model)-> Service <-(DTO)-> Controller
 
 ### UUID
 
