@@ -22,6 +22,10 @@ description: 관심사의 분리, 응집도, 결합도, Layered Architecture, UU
 
 * 다층구조
 * 웹과 기능은 분리 될수 있다.
+* 3 Tier Architecture
+  * Client Device <--> Application Server <--> Database Server
+* 3 Layered Architecture
+  * Presentation Layer <--> Domain Layer <--> Data Access Layer
 
 > 참고: [다층 구조](https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%B8%B5\_%EA%B5%AC%EC%A1%B0), [Layered Architecture](https://github.com/ahastudio/til/blob/main/architecture/layered-architecture.md)
 
