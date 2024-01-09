@@ -22,9 +22,9 @@
   * [Serialization](gitbook/3/serialization.md)
   * [CORS](gitbook/3/cors.md)
 * [4주차](gitbook/4/README.md)
-  * [Layered Architecture](gitbook/4/layered-architecture/README.md)
-    * [Application & Domain Layer](gitbook/4/layered-architecture/application-and-domain-layer.md)
-    * [Domain Model](gitbook/4/layered-architecture/domain-model.md)
+  * [Layered Architecture](gitbook/4/layered-architecture.md)
+    * [Application & Domain Layer](gitbook/4/application-and-domain-layer.md)
+    * [Domain Model](gitbook/4/domain-model.md)
   * [Refactoring](gitbook/4/refactoring.md)
   * [Data Access](gitbook/4/data-access.md)
 
