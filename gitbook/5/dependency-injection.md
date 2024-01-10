@@ -10,7 +10,7 @@
 
 ### 횡단관심사(Cross-cutting concerns)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Cross-Cutting Concerns(Source: <a href="https://d2.naver.com/helloworld/3010710">Naver D2</a>)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Cross-Cutting Concerns(Source: <a href="https://d2.naver.com/helloworld/3010710">Naver D2</a>)</p></figcaption></figure>
 
 프로그램의 수행절차에 따라 구성된 관심사가 아니라, 프로그램의 수행절차를 횡단하여 갖게 되는 관심사
 
