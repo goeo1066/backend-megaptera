@@ -1,7 +1,0 @@
-# Page
-
-TDD
-
-
-
-TDD Cycle
