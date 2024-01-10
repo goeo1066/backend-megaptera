@@ -2,7 +2,13 @@
 
 ## Spring AOP(Aspect Oriented Programming)
 
-횡단관심사(Cross-cutting concerns)
+핵심관심사, 횡단관심사를 분리하여 프로그램을 작성하는 패러다임
+
+### 핵심관심사(Core concerns)
+
+비즈니스 로직, 프로그램 흐름을 따라 갖게 되는 관심사
+
+### 횡단관심사(Cross-cutting concerns)
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Cross-Cutting Concerns(Source: <a href="https://d2.naver.com/helloworld/3010710">Naver D2</a>)</p></figcaption></figure>
 
