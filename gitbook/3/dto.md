@@ -57,10 +57,23 @@ description: Data Transfer Object
 
 > [VO](https://en.wikipedia.org/wiki/Value\_object) (Value Object)
 >
-> * 동등성(equals()) 비교시, 내부 값을 비교함. 같은 객체(Object)인지 비교하지 않음.
+> * 동등성(equals()) 비교시, 내부 값을 비교함.&#x20;
+>   * 같은 객체(Object)인지 비교하지 않음.
 > * 불변해야한다. (Immutability)
 > * 자바의 커스텀 타입은 레퍼런스 타입이고, 커스텀 타입을 전달하면 레퍼런스가 전달되므로 불변인것처럼 에뮬레이팅을 해야한다.&#x20;
 >   * _Java programmers therefore emulate value objects by creating immutable objects, because if the state of an object does not change, passing references is semantically equivalent to copying value objects._
 
 Data Transfer(데이터 전송) 측면에 집중하면 원격(Remote)가 아닌 경우에도 DTO를 사용할수 있다.
+
+### DTO vs VO
+
+#### Mutability
+
+* DTO는 mutable/immutable 할 수도 있다. (주로 immutable)
+* VO는 immutable
+
+#### Comparison
+
+* DTO는 주소를 비교한다.
+* VO는 값을 비교한다. (equals, hashCode를 구현해 동등성 비교)
 
