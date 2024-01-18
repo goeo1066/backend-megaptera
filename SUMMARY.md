@@ -32,6 +32,11 @@
   * [Unit Test](gitbook/5/unit-test.md)
   * [Spring Test](gitbook/5/spring-test.md)
   * [TDD](gitbook/5/tdd.md)
+* [6주차](gitbook/6/README.md)
+  * [Database](gitbook/6/database.md)
+  * [Relational Model](gitbook/6/relational-model.md)
+  * [Relational Algebra](gitbook/6/relational-algebra.md)
+  * [Entity-Relationship Model](gitbook/6/entity-relationship-model.md)
 
 ## 효과적인 학습법
 
