@@ -37,6 +37,8 @@
   * [Relational Model](gitbook/6/relational-model.md)
   * [Relational Algebra](gitbook/6/relational-algebra.md)
   * [Entity-Relationship Model](gitbook/6/entity-relationship-model.md)
+  * [JDBC](gitbook/6/jdbc.md)
+  * [JDBC Template](gitbook/6/jdbc-template.md)
 
 ## 효과적인 학습법
 
