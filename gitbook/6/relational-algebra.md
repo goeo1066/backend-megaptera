@@ -1,6 +1,6 @@
 # Relational Algebra
 
-연산&#x20;
+## 연산
 
 하나 이상의 Relation으로 새로운 Relation을 만들 수 있다.
 
