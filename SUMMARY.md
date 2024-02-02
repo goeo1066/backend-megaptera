@@ -39,6 +39,12 @@
   * [Entity-Relationship Model](gitbook/6/entity-relationship-model.md)
   * [JDBC](gitbook/6/jdbc.md)
   * [JDBC Template](gitbook/6/jdbc-template.md)
+* [7주차](gitbook/7/README.md)
+  * [ORM](gitbook/7/orm.md)
+  * [Hibernate](gitbook/7/hibernate.md)
+  * [Embeddable](gitbook/7/embeddable.md)
+  * [Relationship Mapping](gitbook/7/relationship-mapping.md)
+  * [Spring Data JPA](gitbook/7/spring-data-jpa.md)
 
 ## 효과적인 학습법
 

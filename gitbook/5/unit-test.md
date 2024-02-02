@@ -4,7 +4,7 @@
 
 > [V-Model](https://ko.wikipedia.org/wiki/V\_%EB%AA%A8%EB%8D%B8)
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="350"><figcaption><p>V-Model's Software Development Process(Source: <a href="https://ko.wikipedia.org/wiki/V_%EB%AA%A8%EB%8D%B8">Wikipedia</a>)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="350"><figcaption><p>V-Model's Software Development Process(Source: <a href="https://ko.wikipedia.org/wiki/V_%EB%AA%A8%EB%8D%B8">Wikipedia</a>)</p></figcaption></figure>
 
 > 우리는 문제를 해결하기 위해 프로그래밍을 한다. (특히 비즈니스 문제)
 >
@@ -50,7 +50,7 @@ SUnit(SmallTalk) -> XUnit
 * 자동화된 테스트를 지원
 * 단위 테스트 뿐 아니라 통합테스트 작성, E2E를 작성하는데도 사용된다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="360"><figcaption><p>Testing Pyramid (Source: <a href="https://medium.com/delivus/e2e-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B5%AC%EC%B6%95%EA%B8%B0-used-aws-step-functions-2fccb930218c">Medium</a>)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="360"><figcaption><p>Testing Pyramid (Source: <a href="https://medium.com/delivus/e2e-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B5%AC%EC%B6%95%EA%B8%B0-used-aws-step-functions-2fccb930218c">Medium</a>)</p></figcaption></figure>
 
 ## E2E 테스트
 
