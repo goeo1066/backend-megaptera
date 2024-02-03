@@ -47,7 +47,6 @@
   * [Spring Data JPA](gitbook/7/spring-data-jpa.md)
 * [8주차](gitbook/8/README.md)
   * [DDD](gitbook/8/DDD.md)
-  * [Aggregate](gitbook/8/aggregate.md)
   * [Strategic Design](gitbook/8/strategic-design.md)
   * [Tactical Design](gitbook/8/tactical-design.md)
 ## 효과적인 학습법

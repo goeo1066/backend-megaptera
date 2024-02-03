@@ -94,3 +94,5 @@ Vaughn Vernon이 제안한 4가지 제안 법칙
     - Layered Archtecture의 도움없이 도메인 모델을 Domain Layer에 격리하는게 불가능
     - 다른 레이어도 중요하지만, 도메인 계층을 분리하여 도메인 로직에 집중할수 있게 된다. 
       - Model Driven Design이 가능한 것은 결정적으로 도메인 계층을 분리하는 데 있다.
+
+> [Layered Architecture](https://wikibook.co.kr/article/layered-architecture/)
