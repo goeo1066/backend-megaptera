@@ -51,6 +51,7 @@
   * [Tactical Design](gitbook/8/tactical-design.md)
 * [9주차](gitbook/9/README.md)
   * [SOLID](gitbook/9/solid.md)
+  * [Hexagonal Architecture](gitbook/9/hexagonal-architecture.md)
 
 ## 효과적인 학습법
 
