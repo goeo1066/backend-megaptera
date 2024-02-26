@@ -49,6 +49,9 @@
   * [DDD](gitbook/8/DDD.md)
   * [Strategic Design](gitbook/8/strategic-design.md)
   * [Tactical Design](gitbook/8/tactical-design.md)
+* [9주차](gitbook/9/README.md)
+  * [SOLID](gitbook/9/solid.md)
+
 ## 효과적인 학습법
 
 * [미라클 모닝](undefined/undefined.md)
