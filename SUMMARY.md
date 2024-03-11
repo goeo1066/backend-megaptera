@@ -52,6 +52,10 @@
 * [9주차](gitbook/9/README.md)
   * [SOLID](gitbook/9/solid.md)
   * [Hexagonal Architecture](gitbook/9/hexagonal-architecture.md)
+* [10주차](gitbook/10/README.md)
+  * [애플리케이션 수준의 보안](gitbook/10/undefined.md)
+  * [사용자 입장에서 기본 인증/인가](gitbook/10/undefined-1.md)
+  * [SecurityFilterChain](gitbook/10/securityfilterchain.md)
 
 ## 효과적인 학습법
 
